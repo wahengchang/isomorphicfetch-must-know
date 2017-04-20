@@ -1,0 +1,31 @@
+{
+  "name": "isomorphicfetch-must-know",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "es6-promise": "^4.1.0",
+    "express": "^4.15.2",
+    "isomorphic-fetch": "^2.2.1",
+    "supertest": "^3.0.0"
+  },
+  "devDependencies": {
+    "es6-promise": "^4.1.0",
+    "express": "^4.15.2",
+    "isomorphic-fetch": "^2.2.1",
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahengchang/isomorphicfetch-must-know.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahengchang/isomorphicfetch-must-know/issues"
+  },
+  "homepage": "https://github.com/wahengchang/isomorphicfetch-must-know#readme"
+}
